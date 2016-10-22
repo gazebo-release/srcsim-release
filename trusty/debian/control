@@ -1,0 +1,27 @@
+Source: srcsim
+Standards-Version: 3.9.4
+Maintainer: Jose Luis Rivero <jrivero@osrfoundation.org>
+Section: science
+Priority: extra
+Build-Depends: cmake,
+               pkg-config,
+               debhelper (>= 7.0.50~), 
+               ros-indigo-gazebo7-plugins,
+	       ros-indigo-gazebo7-ros,
+	       ros-indigo-message-generation,
+	       ros-indigo-message-runtime,
+	       ros-indigo-xacro
+Vcs-Browser: https://bitbucket.org/osrf/srcsim-release
+Vcs-Hg: https://bitbucket.org/osrf/srcsim-release
+Homepage: https://bitbucket.org/osrf/srcsim
+
+Package: srcsim
+Architecture: any
+Pre-Depends: ${misc:Pre-Depends}
+Depends: ros-indigo-gazebo7-plugins,
+         ros-indigo-gazebo7-ros,
+         ros-indigo-message-generation,
+         ros-indigo-message-runtime,
+         ros-indigo-xacro
+Multi-Arch: foreign
+Description: Space Robotics Competition simulator (using gazebo7)
