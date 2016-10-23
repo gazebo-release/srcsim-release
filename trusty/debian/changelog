@@ -1,6 +1,6 @@
-gazebo7-robocup3ds (0.1.0-3~trusty) trusty; urgency=medium
+srcsim (0.1.0-3~trusty) trusty; urgency=medium
 
-  * gazebo7-robocup3ds 0.1.0-3 release
+  * srcsim 0.1.0-3 release
 
  -- Jose Luis Rivero <jrivero@osrfoundation.org>  Sun, 23 Oct 2016 21:30:32 +0200
 
