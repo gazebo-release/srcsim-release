@@ -18,7 +18,8 @@ Homepage: https://bitbucket.org/osrf/srcsim
 Package: srcsim
 Architecture: any
 Pre-Depends: ${misc:Pre-Depends}
-Depends: nasa-indigo-workspace,
+Depends: openjdk-8-jdk,
+         nasa-indigo-workspace,
          robonet-tools,
          val-gazebo,
          val-controller-manager-rtt,
