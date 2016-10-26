@@ -1,3 +1,9 @@
+srcsim (0.1.0-6~trusty) trusty; urgency=medium
+
+  * srcsim 0.1.0-6 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 27 Oct 2016 01:59:05 +0200
+
 srcsim (0.1.0-5~trusty) trusty; urgency=medium
 
   * srcsim 0.1.0-5 release
