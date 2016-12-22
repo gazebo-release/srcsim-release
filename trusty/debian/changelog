@@ -1,6 +1,6 @@
-srcsim (1.1.0-1~trusty) trusty; urgency=medium
+srcsim (0.2.0-1~trusty) trusty; urgency=medium
 
-  * srcsim 1.1.0-1 release
+  * srcsim 0.2.0-1 release
 
  -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 22 Dec 2016 01:26:40 +0100
 
