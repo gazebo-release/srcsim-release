@@ -29,6 +29,7 @@ Depends: openjdk-8-jdk,
          ros-indigo-gazebo7-ros,
          ros-indigo-message-generation,
          ros-indigo-message-runtime,
+         ros-indigo-stereo-image-proc,
          ros-indigo-xacro
 Multi-Arch: foreign
 Description: Space Robotics Competition simulator (using gazebo7)
