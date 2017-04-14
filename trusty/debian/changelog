@@ -1,3 +1,9 @@
+srcsim (0.4.0-1~trusty) trusty; urgency=medium
+
+  * srcsim 0.4.0-1 release
+
+ -- Steve Peters <scpeters@osrfoundation.org>  Fri, 14 Apr 2017 16:19:35 -0700
+
 srcsim (0.3.0-1~trusty) trusty; urgency=medium
 
   * srcsim 0.3.0-1 release
