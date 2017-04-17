@@ -21,14 +21,17 @@ Pre-Depends: ${misc:Pre-Depends}
 Depends: openjdk-8-jdk,
          nasa-indigo-workspace,
          robonet-tools,
+         val-description (>= 4.2.2.0-2017.01.13.20.29.15-3fe62574+osrf1),
          val-gazebo,
          val-controller-manager-rtt,
          shared-memory-transport,
          ros-indigo-ihmc-valkyrie-ros,
          ros-indigo-gazebo7-plugins,
          ros-indigo-gazebo7-ros,
+         ros-indigo-joint-state-controller,
          ros-indigo-message-generation,
          ros-indigo-message-runtime,
+         ros-indigo-position-controllers,
          ros-indigo-stereo-image-proc,
          ros-indigo-xacro
 Multi-Arch: foreign
