@@ -10,7 +10,8 @@ Build-Depends: cmake,
 	       ros-indigo-gazebo7-ros,
 	       ros-indigo-message-generation,
 	       ros-indigo-message-runtime,
-	       ros-indigo-xacro
+	       ros-indigo-xacro,
+	       ros-indigo-ihmc-valkyrie-ros
 Vcs-Browser: https://bitbucket.org/osrf/srcsim-release
 Vcs-Hg: https://bitbucket.org/osrf/srcsim-release
 Homepage: https://bitbucket.org/osrf/srcsim
