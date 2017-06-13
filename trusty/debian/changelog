@@ -1,3 +1,9 @@
+srcsim (0.8.0-1~trusty) trusty; urgency=medium
+
+  * srcsim 0.8.0-1 release
+
+ -- Nate Koenig <nkoenig@osrfoundation.org>  Mon, 12 Jun 2017 18:09:56 +0800
+
 srcsim (0.7.0-1~trusty) trusty; urgency=medium
 
   * srcsim 0.7.0-1 release
